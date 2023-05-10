@@ -1,2 +1,7 @@
 # Datei-upload
-Simpler Code für den eigenen Server, um von einem öffentlichen Link eine Seite aufrufen zu können, in der man eine Datei auswählen und mit einem Klick hochladen kann. Diese Seite ist öffentlich Aufruf- und nutzbar. Dazu gibt es es eine extra Seite, die ganz simple einfach nur nach Eingabe eines Passworts die Dateien auflistet die hochgeladen wurden
+
+Mit meinem simplen PHP-Code wird das Hochladen von Dateien jetzt so einfach wie nie zuvor! Mit nur einem Klick kannst du Dateien auf deinen Server hochladen und teilen. Jeder kann diese Seite aufrufen und nutzen, ohne dass du dich um komplizierte technische Details kümmern musst. 
+
+Und das Beste daran ist: Ich habe auch eine sichere Seite speziell für dich als Webmaster eingerichtet. Nach Eingabe deines Passworts kannst du ganz einfach die hochgeladenen Dateien einsehen und verwalten. Die Uploads bleiben somit immer geschützt.
+
+Verabschiede dich von unübersichtlichen und komplizierten Upload-Prozessen. Mit meinem simplen Server-Code wird das Hochladen und Teilen von Dateien zum Kinderspiel. 
